@@ -1,2 +1,4 @@
 # hello-world
-Lerning Github
+Lerning Github by Deddy Suhery
+
+This lerning reporsitory of Github
